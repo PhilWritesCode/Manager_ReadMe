@@ -1,7 +1,7 @@
 
 # Manager README
 
-_Inspired by Developer First "Engineering Management 101", which itself was inspired by [Chuck Groom's post](https://medium.com/@cgroom/what-i-learned-about-myself-from-writing-a-manager-readme-e8b5a126315)._
+_Inspired by (and partially blatantly ripped off from) Developer First "Engineering Management 101", which itself was inspired by [Chuck Groom's post](https://medium.com/@cgroom/what-i-learned-about-myself-from-writing-a-manager-readme-e8b5a126315)._
 
 
 This document will **always** be a work in progress.  
