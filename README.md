@@ -16,7 +16,7 @@ This document will **always** be a work in progress.
 
 | Improve Customer Product & Service Attachment Experience | Lead Happy and Productive People |
 | ------------- | --------- |
-|  Accountable for the quality, efficiency, and performance of Attach components |  Attract and retain a culture of learning, innovation, trust, and collaboration  |  
+|  Accountable for the functionality, quality, and performance of Attach components |  Attract and retain a culture of learning, innovation, trust, and collaboration  |  
 |  Represent the engineering team and platform in organizational discussions and decisions |  Serve team members by removing blockers that prevent them from making progress towards professional and personal goals  | 
 |  Manage cross team priorities and ensure we have the right skills on each | Provide context to connect the dots and maximize team member impact | 
 |  Share credit and provide recognition for successes and wins, be accountable when components fall short of expectations | Allow the team to drive decisions, thus gaining buy-in at the individual level | 
