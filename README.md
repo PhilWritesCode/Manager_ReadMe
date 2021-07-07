@@ -35,7 +35,6 @@ Otherwise, in person/video chat is my preferred method of communication for long
 
 If you will miss one of our normal team meetings or 1:1s, please alert me/the team.
 
-
 ## 1:1s
 As mentioned above, the time I spend with you is the most important aspect of my role.  Due to the large number of individuals I meet with on a recurring basis, I have adjusted my 1:1s to 1x per 2 weeks. I would love to meet with you more frequently if you are interested.  If so, please let me know. 
 
@@ -50,6 +49,8 @@ If you do not have any specific topics, I would suggest we talk about:
 3) What can I help you with?
 
 We will also use this time to discuss performance.  If I am worried about your performance, I will let you know.  Additionally, I admire when high performing individuals seek additional feedback on their performance - please challenge me/you to think of 'stretch goals' for you to continue growing!
+
+I'm not interested in our 1:1 meetings becoming status updates.  I'll get project status from stand-up meetings.
 
 I am a firm believer that every individual drives his/her own career. You set your goals. You set your priorities. Let me know how I can help you achieve them.
 
